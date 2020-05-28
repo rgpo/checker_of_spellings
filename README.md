@@ -1,0 +1,2 @@
+# checker_of_spellings
+The project uses 45403 words for recognizing the spelling mistakes. This is used as a database for spelling checking algorithm. The user has to input the spelling for checking the whether it is correct or not. The algorithm scans through the database and checks for nearest possible spelling of the word. If it matches with the nearest word, the spelling is correct. Else it displays a message that the spelling is wrong.
